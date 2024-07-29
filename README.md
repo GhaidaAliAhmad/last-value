@@ -224,4 +224,4 @@ These files together create a simple web interface for recording and displaying 
 
 
 # Result 
-Uploading 8ae8b1a6-ad1b-459c-b066-a0b36900e1f5.MP4…
+8ae8b1a6-ad1b-459c-b066-a0b36900e1f5.MP4
